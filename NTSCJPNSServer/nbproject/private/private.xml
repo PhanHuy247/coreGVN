@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/manager/impl/NotiOnlineAlertApi.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/manager/impl/NotiNewBuzzFromFavoritedApi.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/util/MsgUtil.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/util/InterCommunicator.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/workers/ReadyPackage.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/workers/MsgContainer.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/workers/Runner.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/manager/impl/NotiNewLiveStreamFromFavoritedApi.java</file>
+            <file>file:/home/phanhuy/Documents/national-traffic-social-server/NTSCJPNSServer/src/com/vn/ntsc/jpns/server/manager/impl/NotiLikeYourBuzzApi.java</file>
+        </group>
+    </open-files>
+</project-private>
